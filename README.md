@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Praksh
+# Hey there! 👋 I'm Prakash Samanta
 
 I'm a BCA graduate and a passionate web developer diving deep into the MERN stack at Sheryians Coding School. I love building dynamic web apps and learning new tech every day.
 
